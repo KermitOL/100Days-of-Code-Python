@@ -1,6 +1,6 @@
 food = input("Give me a type of food ")
-plant = input("Give me a type of plant ")
+plant = input("Give me a type of plant ") 
 cooking = input("Give me a method of cooking ")
 burned = input("Give me a word to describe burned food ")
 item = input("Give me a household item ")
-print(cooking, food, "with", burned, plant, "on a bed of", item)
+print(cooking, food, "with", burned, plant, "on a bed of", item) # Addingt the comma after a quoted text or a variable allows for it to be called upon

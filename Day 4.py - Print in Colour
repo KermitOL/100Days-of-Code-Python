@@ -5,3 +5,4 @@ live = input("Where do you live? ")
 food = input("What is your favorite food? ")
 print("\033[31m", "Hello", name, "! Your ability to", superpower, "will make sure you never have to look at", worstenemy,
       "again. Go eat", food, "as you walk down the streets of", live, "and use", superpower, "for good and not evil!", "\033[0m",)
+# Using the command \033[31m in quotes allows for colours to be added to a print statement but remeber to change the colour code back once the colour is no longer needed.
