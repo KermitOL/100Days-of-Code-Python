@@ -1,4 +1,4 @@
-print("My name is Kermit's Ghost and today's date is 5.6.24") #The print coomand allows for text or numbers to be typed and then printed.
+print("My name is Kermit's Ghost and today's date is 5.6.24") #The print command allows for text or numbers to be typed and then printed.
 
 print("""I am signing up for Replit's 100 days of Python challenge!
 I will make sure to spend some time every day coding along, for a minimum of 10 minutes a day.

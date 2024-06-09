@@ -1,5 +1,5 @@
-print("Getting to know you!") #Using the print command again
-Name = input("What's your name?: ") # the name = is a variable that stores data under the title of name to be used again in future
+print("Getting to know you!") #Using the print command again.
+Name = input("What's your name?: ") # the name = is a variable that stores data under the title of name to be used again in future.
 print("You are")
 print(Name)
 Food = input("What's your favourite foods?")
