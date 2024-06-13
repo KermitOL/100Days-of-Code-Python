@@ -1,0 +1,1 @@
+This is my attempt at the 100 days of coding challenge python, In my ongoing effort to make a developer out of my self or even just a low level programmer it's nothing much but it is a start nonetheless.
